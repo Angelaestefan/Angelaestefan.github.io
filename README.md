@@ -22,7 +22,7 @@ Before starting the tutorial, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
-- [tailwind] (https://v1.tailwindcss.com/docs/installation)
+- [tailwindcss](https://v1.tailwindcss.com/docs/installation)
 
 ## Getting Started
 

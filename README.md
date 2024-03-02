@@ -13,8 +13,8 @@ This repository contains a tutorial on using Node.js to interact with the Spotif
   - [Authentication](#authentication)
   - [Using the API](#using-the-api)
 - [Example Application](#example-application)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## Prerequisites
 
@@ -22,6 +22,7 @@ Before starting the tutorial, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
+- [tailwind] (https://v1.tailwindcss.com/docs/installation)
 
 ## Getting Started
 

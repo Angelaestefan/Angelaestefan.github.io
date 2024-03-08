@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "build-css": "tailwindcss build-css src/input.css -o public/output.css"
+  },
   "devDependencies": {
     "tailwindcss": "^3.4.1"
   }

@@ -2,15 +2,6 @@ require("dotenv").config();
 
 const http = require("http");
 
-// function paramsToObject(entries) {
-//   const result = {};
-//   for (const [key, value] of entries) {
-//     // each 'entry' is a [key, value] tupple
-//     result[key] = value;
-//   }
-//   return result;
-// }
-
 async function requestPost() {
   const res = await fetch("https://accounts.spotify.com/api/token", {
     method: "POST",
@@ -20,6 +11,7 @@ async function requestPost() {
 
   return res.json();
 }
+
 async function getArtist(access_token) {
   const res = await fetch(
     "https://api.spotify.com/v1/search?q=luis+miguel&type=artist",

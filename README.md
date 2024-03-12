@@ -12,6 +12,9 @@ This repository contains a tutorial on using Node.js to interact with the Spotif
 - [OpenAI API](#openai-api)
   - [Authentication](#authentication)
   - [Using the API](#using-the-api)
+ - [WhatsApp API](#whatsapp-api)
+  - [Authentication](#authentication)
+  - [Using the API](#using-the-api)
 - [Example Application](#example-application)
 
 
